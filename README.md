@@ -35,6 +35,9 @@ Powershell, Windows 10
 
 <a href="https://imgur.com/NnGG13V"><img src="https://i.imgur.com/NnGG13V.png" title="source: imgur.com" /></a>
 
+<h3>A quick check of my environment's compliance. There needs to be some improvements still, but much better compared to what it was.</h3>
+<a href="https://imgur.com/zGg5ANI"><img src="https://i.imgur.com/zGg5ANI.png" title="source: imgur.com" /></a>
+
 
 <h3>Network Topology With Application of NST 800-53 SC7 Standards</h3>
 <a href="https://imgur.com/XvzmsGz"><img src="https://i.imgur.com/XvzmsGz.png" title="source: imgur.com" /></a>
