@@ -1,6 +1,6 @@
 <h1>Secure Cloud Configurations Pt. 3</h1>
 
- ### [Azure Honeynet Lab](https://youtu.be/7eJexJVCqJo)
+ ### [Azure Honeynet Lab](https://github.com/CyberPlataa/Azure-Honey-Net-Lab)
 
 <h2>Description</h2>
 Project consists of going through the created virtual network and adjusting keyvault/storage/networks to be in compliance with NIST 800-53 SC7 Standards.
