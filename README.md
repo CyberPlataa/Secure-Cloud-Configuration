@@ -42,6 +42,10 @@ Powershell, Windows 10
 <h3>Network Topology With Application of NST 800-53 SC7 Standards</h3>
 <a href="https://imgur.com/XvzmsGz"><img src="https://i.imgur.com/XvzmsGz.png" title="source: imgur.com" /></a>
 
+
+## Conclusion
+Referencing NIST 800-53, I went through and implemented the security and privacy controls to be compliant and strengthen/harden my virtual network environment. 
+
 <!--
  ```diff
 - text in red
